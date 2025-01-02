@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Ingochic<br>👯 I’m looking to collaborate on e-commerce project<br>🤝<br>🌱 I’m currently learning PERN ASTACK<br>💬 Ask me about Javascript
+🔭 I’m currently working on  Ingochic<br>👯 I’m looking to collaborate on e-commerce project<br>🤝<br>🌱 I’m currently learning PERN STACK<br>💬 Ask me about Javascript
 
 
 # 💻 Tech Stack:
