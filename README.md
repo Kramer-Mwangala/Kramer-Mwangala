@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  an e-commerce site<br>👯 I’m looking to collaborate on e-commerce project<br>🤝<br>🌱 I’m currently learning Java<br>💬 Ask me about Javascript
+🔭 I’m currently working on  Mwangala.com
 
 
 # 💻 Tech Stack:
