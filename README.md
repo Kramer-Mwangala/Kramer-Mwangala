@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Mwangala.com
+🔭 I’m currently working on a few personal projects 
 
 
 # 💻 Tech Stack:
